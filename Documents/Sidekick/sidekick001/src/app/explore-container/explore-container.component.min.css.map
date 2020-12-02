@@ -1,0 +1,1 @@
+{"version":3,"sources":["explore-container.component.scss"],"names":[],"mappings":"AAAA,WACE,iBAAkB,QAClB,OAAQ","file":"explore-container.component.min.css","sourcesContent":["#container {\n  background-color: #FAC847;\n  height: 100vh;\n}\n\n\n"]}

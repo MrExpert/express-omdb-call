@@ -1,0 +1,7 @@
+{
+  "name": "sidekick001",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

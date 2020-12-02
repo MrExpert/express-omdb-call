@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["explore-container.component.scss"],"sourcesContent":["#container {\n  background-color: #FAC847;\n  height: 100vh;\n}\n\n\n"],"file":"explore-container.component.css"}

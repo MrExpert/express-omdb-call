@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["tab2.page.scss"],"sourcesContent":["ion-avatar {\n    width: 85px ;\n    height: 85px ;\n}"],"file":"tab2.page.css"}
